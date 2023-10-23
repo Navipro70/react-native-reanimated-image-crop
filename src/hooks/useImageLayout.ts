@@ -47,9 +47,8 @@ export const useImageLayout = ({containerWidth, containerHeight}: Props) => {
     () => ({
       ...imageSize,
       ...imageCenters,
-      realImageRatio: realImageSize?.height ?? 0,
       onChangeImageSize: setRealImageSize,
     }),
-    [imageCenters, imageSize, realImageSize],
+    [imageCenters, imageSize],
   );
 };
