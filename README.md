@@ -1,7 +1,11 @@
 # Notes and example
 
-> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 > **Note**: Image saving works only on ios
+
+[Crop](https://github.com/Navipro70/react-native-reanimated-image-crop/assets/60893275/ebdd62f1-1a75-4e38-8194-3eee7fa6562a)
+
+[Zoom](https://github.com/Navipro70/react-native-reanimated-image-crop/assets/60893275/1537db2d-bdea-48c8-8f1c-a7408f797bd0)
+
 
 # Setup steps
 
